@@ -1,0 +1,7 @@
+## Environement Setup
+* node - v22.7.0 
+  
+## Steps
+* initialize package.json file - npm init -y
+* install tailwindcss - node_modules folder - npm i -D tailwindcss
+* tailwind config file - npx tailwind init
